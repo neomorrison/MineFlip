@@ -1,0 +1,58 @@
+/* CSS Document */
+body{
+	background-color: #1A2C38;
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.button {	
+	border: 2px outset #304453;
+	background-color: #304453;
+	height:100px;
+	width:100px;
+	cursor:pointer;
+	border-radius: 5px;
+}
+
+.button:hover {
+	background-color: #546C83;
+	color:white;
+}
+
+.under {
+  text-align: center;
+}
+
+select {
+  	margin: auto;
+	color: mintcream;
+	font-size: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 515px;
+	background-color: #0F212E;
+	border: 2px solid #557086;
+	border-radius: 5px 5px 5px 5px;
+    box-shadow: 0 0 1px #E8E8E8 inset;
+
+}
+
+.play {
+	cursor: pointer;
+	margin: auto;
+	margin-top: 10px;
+	padding-top:15px;
+	padding-bottom:15px;
+	color: black;
+	background-color: greenyellow;
+	font-size: 15px;
+	width: 515px;
+	border: 2px solid greenyellow;
+	border-radius: 5px 5px 5px 5px;
+}
+.play:hover{
+	background-color: #1FFF20;
+}
