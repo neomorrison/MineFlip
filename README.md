@@ -15,4 +15,4 @@
 ![Recording 2023-01-07 at 17 18 42](https://user-images.githubusercontent.com/44535532/211176431-64d333b7-45cb-4da0-9a4f-df82c7447f29.gif)
 
 
-demo with balance feature: (https://neomorrison.com/projects/casino/MineFlip/)https://neomorrison.com/projects/casino/MineFlip/
+demo with balance feature: https://neomorrison.com/projects/casino/MineFlip/
